@@ -7,5 +7,5 @@ A Simple Appliction for adding pending task
 * Easy to use
 * nigh Theme
 * SQLITE DB
-* [Download The Apk File From Here](https://github.com/adminvns/TO-D)) -Happy Coding
+* [Download The Apk File From Here](https://github.com/adminvns/TO-DO/blob/master/TODO.apk) -Happy Coding
 ```
